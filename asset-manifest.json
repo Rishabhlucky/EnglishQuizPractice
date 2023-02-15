@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EnglishQuizPractice/static/css/main.37d51a59.css",
+    "main.js": "/EnglishQuizPractice/static/js/main.6966b1f8.js",
+    "static/js/787.13ff5629.chunk.js": "/EnglishQuizPractice/static/js/787.13ff5629.chunk.js",
+    "index.html": "/EnglishQuizPractice/index.html",
+    "main.37d51a59.css.map": "/EnglishQuizPractice/static/css/main.37d51a59.css.map",
+    "main.6966b1f8.js.map": "/EnglishQuizPractice/static/js/main.6966b1f8.js.map",
+    "787.13ff5629.chunk.js.map": "/EnglishQuizPractice/static/js/787.13ff5629.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37d51a59.css",
+    "static/js/main.6966b1f8.js"
+  ]
+}
