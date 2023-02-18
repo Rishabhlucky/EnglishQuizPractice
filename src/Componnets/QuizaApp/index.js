@@ -1,8 +1,8 @@
 import "./style.css";
 import Question from "../Question";
 import { QuizData } from "../Data";
-import { useState } from "react";
 import Result from "../result/index";
+import { useState } from "react";
 
 export default function QuizApp() {
   const [index, setIndex] = useState(0);
@@ -25,7 +25,7 @@ export default function QuizApp() {
   return (
     <>
       <div className="App">
-        <h1 className="h1">Quiz app</h1>
+        <h1 className="h1"> English Practice </h1>
         {QuizData.length> index ? (
           <Question q={QuizData[index]} updateIndex={indexHandler} />
         ) : (

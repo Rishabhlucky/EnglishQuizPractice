@@ -14,7 +14,7 @@ function Question(props) {
     let value = e.target.value;
     console.log('+++++++', value)
     setResult(props.q.correct === value);
-    setAnswer(value);
+    setAnswer(value) 
   }
 
   useEffect(() => {

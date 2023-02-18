@@ -1,9 +1,12 @@
 .question {
     margin: 71px;
+  
   }
   .question h2 {
     text-align: center;
-    margin-bottom: 44px;
+    margin-left: 50px;
+    margin-bottom: 44px ;
+   
   }
   li {
     list-style: none;
@@ -15,6 +18,7 @@
   }
   lable {
     margin: 1rem;
+   
   }
   .submit {
     background-color: #732d91;
